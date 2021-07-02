@@ -2,8 +2,8 @@
 
 * Language
   * python
-    >> PIL
-    >> pygame
+    > PIL
+    > pygame
 
 * Main Body
   * Make a bridge to cross the gap between two roads by press

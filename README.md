@@ -1,5 +1,10 @@
 # Bridge Game
 
+* Language
+  * python
+    >> PIL
+    >> pygame
+
 * Main Body
   * Make a bridge to cross the gap between two roads by press
   * Crossing many roads is Valid, if you are on the road

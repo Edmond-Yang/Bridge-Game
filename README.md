@@ -25,3 +25,16 @@
   * Hard :
     The next road would move when you are making a bridge and moving to the other edge of bridge
 
+* Image
+  * Start Game
+    ![](./README_IMG/1.png)
+  * Choose Color
+    ![](./README_IMG/2.png)
+  * Choose Difficulty
+    ![](./README_IMG/3.png)
+  * Run
+    ![](./README_IMG/4.png)
+  * Get Point
+    ![](./README_IMG/5.png)
+  * Get PERFECT Point
+    ![](./README_IMG/6.png)
